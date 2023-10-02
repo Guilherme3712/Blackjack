@@ -1,3 +1,8 @@
+# Feito em ReactJS #
+Código fonte dê https://github.com/ImKennyYip/black-jack
+O código original era html, css e js puro, foi feito a conversão de linguagem para o React.
+Acredito que hajam alguns erros já que é a primeira vez que faço isso.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
