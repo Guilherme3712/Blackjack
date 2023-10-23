@@ -16,6 +16,6 @@ npm start
 
 ## Imagem da aplicação
 
-<img width="960" alt="Blackjack" src="https://github.com/Guilherme3712/Blackjack/assets/128616640/3fc6bde8-b164-46b2-a350-4e7ec1934bb4">
+<img width="960" alt="Blackjack" src="https://github.com/Guilherme3712/Blackjack/assets/128616640/ae3e80ff-0398-4898-b1a4-62a21e15f7c1">
 
 
