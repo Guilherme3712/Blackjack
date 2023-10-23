@@ -1,11 +1,12 @@
-# Feito em ReactJS #
+# BlackJack
+
 Código fonte dê https://github.com/ImKennyYip/black-jack
-O código original era html, css e js puro, foi feito a conversão de linguagem para o React.
+
+O código original era html e js puro, foi feito a conversão de linguagem para o React.
+
 Acredito que hajam alguns erros já que é a primeira vez que faço isso.
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Iniciar projeto
 
 npx create-react-app my-app
 
@@ -13,11 +14,8 @@ cd my-app
 
 npm start
 
-### `npm start`
+## Imagem da aplicação
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="960" alt="Blackjack" src="https://github.com/Guilherme3712/Blackjack/assets/128616640/3fc6bde8-b164-46b2-a350-4e7ec1934bb4">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
